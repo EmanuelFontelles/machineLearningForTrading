@@ -1,3 +1,6 @@
 [submodule "py4fi"]
 	path = py4fi
 	url = https://github.com/yhilpisch/py4fi
+[submodule "docs/py4fi"]
+	path = docs/py4fi
+	url = https://github.com/yhilpisch/py4fi
